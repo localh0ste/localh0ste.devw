@@ -1,7 +1,7 @@
 <template>
     <div class="menu" style="z-index: 1000000">
     <div class="topbar">
-       <h4> h00dy ≈)</h4>
+       <h4> localh0ste </h4>
     </div>
       <div class="socials">
         <a href="https://x.com/hoodietramp" target="_blank">
