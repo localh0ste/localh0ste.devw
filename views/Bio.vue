@@ -1,7 +1,7 @@
 <template>
 <div>
     <img class="w-full h-auto" src="@/assets/Biography/self.jpeg" />
-    <h2 class="font-bold text-2xl py-5">Kunal Jaglan aka (h00dy)</h2>
+    <h2 class="font-bold text-2xl py-5">Vikram Pawar aka (localh0ste) </h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
         Penetration Tester / Red Teamer / CyberSecurity Engineer 🚀 
     </h4>
