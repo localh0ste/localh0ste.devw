@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-# Stop trying to find my secret directories nub
+# Stop trying to find my secret directories noob
+#localh0ste is also hacker ? what you think :)
